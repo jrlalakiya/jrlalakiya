@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studying Computer Engineering Technology - Computer Science at algonquin college<br>🌱 I’m currently learning Full-stack Development<br>👯 I’m looking to collaborate on anything which can improve my problem solving skills<br>💬 Ask me about C, java, javascript, firebase, python, react<br>😄 Pronouns: He/Him<br>⚡ Fun fact:  Fun fact One fun fact about programming is that the first computer program was written by Ada Lovelace in 1843, which was intended to calculate Bernoulli numbers on Charles Babbage's Analytical Engine.
+🔭 I’m currently Studying Computer Engineering Technology - Computer Science at Algonquin College <br>🌱 I’m currently learning Full-stack Development<br>👯 I’m looking to collaborate on anything that can improve my problem-solving skills<br>💬 Ask me about C, java, javascript, firebase, python, react<br>😄 Pronouns: He/Him<br>⚡ Fun fact: One fun fact about programming is that Ada Lovelace wrote the first computer program in 1843, which was intended to calculate Bernoulli numbers on Charles Babbage's Analytical Engine.
 
 
 # 💻 Tech Stack:
